@@ -1,5 +1,5 @@
 var config = {
-	oauthd_url: 'https://oauth.io',
+	oauthd_url: 'https://white-harbor-nodejs-75885.apse1.nitrousbox.com',
 	version: 'phonegap-0.1'
 };
 
